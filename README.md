@@ -1,6 +1,6 @@
 # Walmart Sales Analysis
 
-![image](https://github.com/user-attachments/assets/3488c186-dc84-4c84-9c85-d2f87e10a63e)
+![walmart_banner-removebg-preview](https://github.com/user-attachments/assets/99e0ea43-77fe-402b-b5f7-5e23d0a02ecd)
 
 This project presents a comprehensive end-to-end sales analysis of Walmart’s retail data using **Python**, **Power BI**, and a structured **CSV** dataset. It replicates a real-world business intelligence solution — from raw data preprocessing to dashboard visualization.
 
